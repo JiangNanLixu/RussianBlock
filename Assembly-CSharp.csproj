@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{7D02CDE7-9539-AEED-4A5F-ABDD4DDB6F7C}</ProjectGuid>
+    <ProjectGuid>{F9A8D65A-AF0E-34AA-B5E9-07242E54DD20}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -71,16 +71,16 @@
     <Compile Include="Assets\Scripts\ShowBlockIndex.cs" />
     <Compile Include="Assets\Scripts\TimeManager.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>D:/Unity3d/Project/俄罗斯方块/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>D:/Unity3d/Project/RussianBlock/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Unity3d/Project/俄罗斯方块/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Unity3d/Project/RussianBlock/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/Unity3d/Project/俄罗斯方块/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/Unity3d/Project/RussianBlock/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Unity3d/Project/俄罗斯方块/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Unity3d/Project/RussianBlock/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity3d/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
